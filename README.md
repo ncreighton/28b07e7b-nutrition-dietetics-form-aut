@@ -1,2 +1,28 @@
-# 28b07e7b-nutrition-dietetics-form-aut
-Built for nutrition dietetics professionals who are tired of switching between tabs and losing context.  Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Nutrition &amp; Dietetics Form Auto-Filler And Data Entry Accelerator — fully configured and ready to
+# Nutrition & Dietetics Form Auto-Filler and Data Entry Accelerator Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm9AT3aLgaU09a8nGcZM0l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm9AT3aLgaU09a8nGcZM0l)
+
